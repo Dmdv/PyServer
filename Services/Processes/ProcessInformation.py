@@ -1,4 +1,4 @@
-__author__ = 'Dima'
+__author__ = 'Dmdv'
 
 ## {{{ http://code.activestate.com/recipes/305279/ (r4)
 """

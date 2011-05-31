@@ -1,4 +1,4 @@
-__author__ = 'Dyachkov'
+__author__ = 'Dmdv'
 
 import smtplib
 

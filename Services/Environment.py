@@ -1,6 +1,6 @@
 import os
 
-__author__ = 'Dyachkov'
+__author__ = 'Dmdv'
 
 import string
 

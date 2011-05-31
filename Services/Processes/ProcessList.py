@@ -1,4 +1,4 @@
-__author__ = 'Dima'
+__author__ = 'Dmdv'
 
 ## {{{ http://code.activestate.com/recipes/576362/ (r1)
 from ctypes import c_long , c_int , c_uint , c_char , c_ubyte , c_char_p , c_void_p

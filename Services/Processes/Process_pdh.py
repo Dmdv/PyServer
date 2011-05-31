@@ -1,6 +1,6 @@
 from locale import str
 
-__author__ = 'Dima'
+__author__ = 'Dmdv'
 
 ## {{{ http://code.activestate.com/recipes/303339/ (r1)
 import win32pdh, string, win32api

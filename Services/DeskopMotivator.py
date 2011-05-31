@@ -1,4 +1,4 @@
-__author__ = 'Dyachkov'
+__author__ = 'Dmdv'
 
 def setWallpaper( bmp ):
 	import win32api, win32con, win32gui

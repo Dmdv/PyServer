@@ -1,4 +1,4 @@
-__author__ = 'Dyachkov'
+__author__ = 'Dmdv'
 
 try:
     import win32pdh

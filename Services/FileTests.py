@@ -1,4 +1,4 @@
-__author__ = 'Dyachkov'
+__author__ = 'Dmdv'
 
 infile = "C:\\Temp\\tasks.txt"
 outfile = "C:\\Temp\\outtasks.txt"

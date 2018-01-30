@@ -3,8 +3,8 @@ __author__ = 'Dmdv'
 import smtplib
 
 setupServer = 'mail.avp.ru'
-fromaddr = 'dimos-d@yandex.ru'
-toaddrs = 'dimos-d@yandex.ru'
+fromaddr = 'test@yandex.ru'
+toaddrs = 'test@yandex.ru'
 
 msg = ("From: %s\r\nTo: %s\r\n\r\n" % (fromaddr, toaddrs))
 
